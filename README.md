@@ -1,4 +1,4 @@
-Hi, I’m @SachaLheveder. I'm a 4th year Honours pure math student at McGill University in Montreal.
+Hi, I’m @SachaLheveder. I'm a 4th year honours pure math student at McGill University in Montreal.
 My research interests lie primarily in group theory. More recently I became interested in data analytics and statistics.
 
 - I'm currently learning Python and Matlab. I have used Java and R in the past as well.
